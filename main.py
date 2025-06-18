@@ -226,7 +226,89 @@ if __name__ == "__main__":
     # ProcessLabelRange("output/split_part_10.xlsx", start=1, end=1001) #10000/20000
 
     #FILE 11 - 10000 - ( KPI: 6000 / 12000 )
-    ProcessLabelRange("output/split_part_11.xlsx", start=1, end=1001) #11000/20000
+    # ProcessLabelRange("output/split_part_11.xlsx", start=1, end=1001) #11000/20000
+    
+    
+    #17/06/2025
+    # ProcessLabelRange("output/split_part_21.xlsx", start=1, end=11) 
+    # ProcessLabelRange("output/split_part_21.xlsx", start=11, end=501) 
+    # ProcessLabelRange("output/split_part_21.xlsx", start=501, end=1001) 
+    # ProcessLabelRange("output/split_part_22.xlsx", start=1, end=501) 
+    
+    
+    #18/06/2025 - 2000/10000
+    # ProcessLabelRange("output/split_part_22.xlsx", start=501, end=502) 
+    # ProcessLabelRange("output/split_part_22.xlsx", start=502, end=1001) # het muc
+    # ProcessLabelRange("output/split_part_22.xlsx", start=580, end=581)
+    # ProcessLabelRange("output/split_part_22.xlsx", start=581, end=582)
+    # ProcessLabelRange("output/split_part_22.xlsx", start=582, end=1001)
+    
+    #3000/10000
+    # ProcessLabelRange("output/split_part_23.xlsx", start=1, end=2)
+    # ProcessLabelRange("output/split_part_23.xlsx", start=2, end=501)
+    # ProcessLabelRange("output/split_part_23.xlsx", start=501, end=1001)
+    
+    #4000/10000
+    # ProcessLabelRange("output/split_part_24.xlsx", start=1, end=2)
+    # ProcessLabelRange("output/split_part_24.xlsx", start=1, end=501)
+    # ProcessLabelRange("output/split_part_24.xlsx", start=501, end=601)
+    # ProcessLabelRange("output/split_part_24.xlsx", start=601, end=1001)
+    # ProcessLabelRange("output/split_part_24.xlsx", start=795, end=1001)
+    
+    #5000/10000
+    # ProcessLabelRange("output/split_part_25.xlsx", start=1, end=501)
+    # ProcessLabelRange("output/split_part_25.xlsx", start=501, end=1001)
+     
+    #6000/10000
+    # ProcessLabelRange("output/split_part_26.xlsx", start=1, end=501)
+    # ProcessLabelRange("output/split_part_26.xlsx", start=501, end=1001)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    #8000/10000
+    # ProcessLabelRange("output/split_part_27.xlsx", start=1, end=501)
+    # ProcessLabelRange("output/split_part_27.xlsx", start=501, end=1001)
+     
+    # ProcessLabelRange("output/split_part_28.xlsx", start=163, end=1001)
+    #==========
+    
+    
+    #10000/10000
+    # ProcessLabelRange("output/split_part_29.xlsx", start=3, end=1001)
+ 
+    # ProcessLabelRange("output/split_part_30.xlsx", start=1, end=1001)
+    # ProcessLabelRange("output/split_part_30.xlsx", start=150, end=151)
+    ProcessLabelRange("output/split_part_30.xlsx", start=151, end=1001)
+    
+    
+    
+    
+    
+    
+    
+    
 
 
 
